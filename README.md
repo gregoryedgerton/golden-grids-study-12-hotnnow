@@ -45,12 +45,9 @@ is the building's navy base under its red line. Archivo at its blackest and
 widest stands in for the sign lettering. The purple of the current site is not
 used as a brand colour. The reference has one scheme; dark is the study's.
 
-## The claim
+## Approach
 
-A menu with no prices and four mains is a list of nearly equal things, and the
-current site sets it as one. Here the board ranks it: the Olive Burger takes
-the largest square of the mains, the cheesy taters lead the sides, and what
-the board lists under each name sits on the square that opens to order it.
+The current site sets its menu as a two-column list without prices, and its other pages as a headline, a photograph beside a coloured panel and a closing line. The study sets each menu section as one grid, with one item in the largest square, and each item's square opens to order it. The look is taken from the chain's older branding rather than its current one.
 
 ## The pages
 
@@ -143,21 +140,23 @@ the author gave leave for them to be cheeky.
   1440, light and dark, all five pages: nothing overflows, no fitted line under
   12px, axe clean with a More open. No screen-reader user has tested it.
 
-## What did not
+## Notes for review
 
-- The legacy style is read from one logo file and two photographs taken in
-  2014. No period print, packaging or television advertising was found under a
-  usable licence, so the 1980s and 1990s graphics are inferred from a building
-  and a board that had been repainted since.
-- The bolt in the wordmark is this study's drawing in the old mark's colours.
-  It is close enough to the idea to be recognised and should not be taken for
-  the chain's mark.
-- The food photographs are not the restaurant's food. Only the olive burger is
-  the named dish; "cheesy taters" is shown by a similar fried potato bite.
-- The Sturgis and Kalamazoo pins have no street address: the site gives none.
-- Wikipedia's dates for the relaunch were not checked against the company.
-- The order builder was run once at two widths, not through every item; the
-  builder and the bag were not scanned open.
+Observations for whoever reviews this study, recorded without a verdict. Whether the layout suits the page is assessed separately, after every study has been reviewed.
+
+- **Legacy references.** The old style is read from one logo file and two photographs taken in 2014; no period print, packaging or advertising was found under a usable licence.
+- **Bolt.** The wordmark's bolt is the study's drawing in the old mark's colours, not the chain's mark.
+- **Food photographs.** They are not the restaurant's food. Only the olive burger is the named dish; "cheesy taters" is shown by a similar fried potato bite.
+- **Addresses.** The Sturgis and Kalamazoo pins have no street address; the site gives none.
+- **Dates.** Wikipedia's dates for the relaunch were not checked against the company.
+- **Testing.** The order builder was run at two widths, not through every item, and was not scanned while open.
+
+## Disclosure
+
+Every page says what it is in three places, all read from
+[`src/study.json`](src/study.json): its title and description, a sticky notice
+at the top, and a disclosure at the very end listing the pages reviewed, what
+is real, what is invented or changed, and where each kind of asset came from.
 
 ## Study tools
 
