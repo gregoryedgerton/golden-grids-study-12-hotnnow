@@ -1,0 +1,102 @@
+{
+ "tiles": [
+  {
+   "text": "WAYLAND​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍",
+   "x": 44,
+   "y": 879,
+   "w": 666,
+   "h": 239
+  },
+  {
+   "text": "ALPENA​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ",
+   "x": 730,
+   "y": 879,
+   "w": 666,
+   "h": 239
+  }
+ ],
+ "url": "https://www.hot-n-now.com/locations",
+ "title": "Locations – Hot 'n Now",
+ "width": 1440,
+ "height": 3827,
+ "headings": [
+  {
+   "tag": "H1",
+   "text": "LOOK FOR THE LIGHTNING.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍",
+   "x": 44,
+   "y": 218,
+   "w": 1352,
+   "h": 200
+  },
+  {
+   "tag": "H2",
+   "text": "WE’VE OPENED OUR FIRST NEW LOCATION IN MICHIGAN WITH MORE ON THE HORIZON. SO WHE",
+   "x": 44,
+   "y": 442,
+   "w": 1352,
+   "h": 248
+  },
+  {
+   "tag": "H2",
+   "text": "NEW LOCATIONS.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌",
+   "x": 44,
+   "y": 806,
+   "w": 1352,
+   "h": 50
+  },
+  {
+   "tag": "H2",
+   "text": "FRANCHISE THE FUTURE.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍",
+   "x": 44,
+   "y": 1454,
+   "w": 632,
+   "h": 50
+  },
+  {
+   "tag": "H1",
+   "text": "KEEPING IT REAL. AND REALLY GOOD.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍",
+   "x": 278,
+   "y": 2500,
+   "w": 884,
+   "h": 300
+  },
+  {
+   "tag": "H3",
+   "text": "READY TO KEEP UP WITH THE LIGHTNING?​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​",
+   "x": 44,
+   "y": 3421,
+   "w": 576,
+   "h": 30
+  }
+ ],
+ "images": [
+  {
+   "alt": "Locations – Hot 'n Now",
+   "x": 720,
+   "y": 1410,
+   "w": 720,
+   "h": 720
+  },
+  {
+   "alt": "Locations – Hot 'n Now",
+   "x": 0,
+   "y": 2130,
+   "w": 360,
+   "h": 519
+  },
+  {
+   "alt": "Locations – Hot 'n Now",
+   "x": 900,
+   "y": 2303,
+   "w": 540,
+   "h": 346
+  },
+  {
+   "alt": "Locations – Hot 'n Now",
+   "x": 180,
+   "y": 2823,
+   "w": 540,
+   "h": 346
+  }
+ ]
+}

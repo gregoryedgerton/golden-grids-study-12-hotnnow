@@ -1,0 +1,161 @@
+{
+ "tiles": [
+  {
+   "text": "MOVE FAST​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌",
+   "x": 44,
+   "y": 1576,
+   "w": 732,
+   "h": 145
+  }
+ ],
+ "url": "https://www.hot-n-now.com/careers",
+ "title": "Careers – Hot 'n Now",
+ "width": 820,
+ "height": 3559,
+ "headings": [
+  {
+   "tag": "H1",
+   "text": "WE’VE GOT THE JOBS.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍",
+   "x": 44,
+   "y": 218,
+   "w": 732,
+   "h": 200
+  },
+  {
+   "tag": "H1",
+   "text": "YOU’VE GOT THE DRIVE.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍",
+   "x": 44,
+   "y": 794,
+   "w": 732,
+   "h": 200
+  },
+  {
+   "tag": "H2",
+   "text": "HUNGRY FOR YOUR NEXT OPPORTUNITY?​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍",
+   "x": 44,
+   "y": 1082,
+   "w": 732,
+   "h": 72
+  },
+  {
+   "tag": "H2",
+   "text": "MOVE FAST​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌",
+   "x": 44,
+   "y": 1593,
+   "w": 732,
+   "h": 36
+  },
+  {
+   "tag": "H3",
+   "text": "SPEED IS IN OUR DNA. WE SHOW UP READY, STAY SHARP, AND KEEP THE LINE MOVING.​​​​",
+   "x": 44,
+   "y": 1645,
+   "w": 732,
+   "h": 60
+  },
+  {
+   "tag": "H2",
+   "text": "BRING THE ENERGY​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌",
+   "x": 44,
+   "y": 1738,
+   "w": 732,
+   "h": 36
+  },
+  {
+   "tag": "H3",
+   "text": "ATTITUDE MATTERS. WE LEAD WITH HUSTLE, PRIDE, AND THE KIND OF EFFORT THAT KEEPS ",
+   "x": 44,
+   "y": 1790,
+   "w": 732,
+   "h": 90
+  },
+  {
+   "tag": "H2",
+   "text": "KEEP IT REAL​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌",
+   "x": 44,
+   "y": 1807,
+   "w": 732,
+   "h": 36
+  },
+  {
+   "tag": "H3",
+   "text": "WE’RE HONEST, GROUNDED, AND ALWAYS RESPECTFUL. WE DON’T DO EGOS OR DRAMA. JUST G",
+   "x": 44,
+   "y": 1859,
+   "w": 732,
+   "h": 90
+  },
+  {
+   "tag": "H2",
+   "text": "DELIVER FOR EVERYONE​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌",
+   "x": 44,
+   "y": 1876,
+   "w": 732,
+   "h": 36
+  },
+  {
+   "tag": "H3",
+   "text": "EVERY GUEST DESERVES THE BEST WE’VE GOT. THAT MEANS FAST SERVICE, GREAT ENERGY, ",
+   "x": 44,
+   "y": 1928,
+   "w": 732,
+   "h": 90
+  },
+  {
+   "tag": "H2",
+   "text": "PUSH FORWARD​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌",
+   "x": 44,
+   "y": 1945,
+   "w": 732,
+   "h": 36
+  },
+  {
+   "tag": "H3",
+   "text": "WE STAY CURIOUS, KEEP IMPROVING, AND NEVER SETTLE FOR “GOOD ENOUGH.”​​​​‌ ‍ ​‍​‍",
+   "x": 44,
+   "y": 1997,
+   "w": 732,
+   "h": 60
+  },
+  {
+   "tag": "H3",
+   "text": "WE’RE HIRING​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌",
+   "x": 88,
+   "y": 2569,
+   "w": 688,
+   "h": 30
+  },
+  {
+   "tag": "H2",
+   "text": "LET’S CUT TO THE CHASE​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ",
+   "x": 88,
+   "y": 2623,
+   "w": 688,
+   "h": 36
+  },
+  {
+   "tag": "H3",
+   "text": "READY TO KEEP UP WITH THE LIGHTNING?​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​",
+   "x": 44,
+   "y": 3110,
+   "w": 576,
+   "h": 30
+  }
+ ],
+ "images": [
+  {
+   "alt": "We’ve got the jobs.​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌",
+   "x": 44,
+   "y": 368,
+   "w": 732,
+   "h": 488
+  },
+  {
+   "alt": "Careers – Hot 'n Now",
+   "x": 0,
+   "y": 2042,
+   "w": 547,
+   "h": 547
+  }
+ ]
+}

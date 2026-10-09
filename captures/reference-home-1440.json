@@ -1,0 +1,81 @@
+{
+ "tiles": [],
+ "url": "https://www.hot-n-now.com/",
+ "title": "Hot ‘n Now | Lightning Fast Food at a Great Price",
+ "width": 1440,
+ "height": 4419,
+ "headings": [
+  {
+   "tag": "H2",
+   "text": "HOLD ON TO YOUR TASTE BUDS.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍",
+   "x": 764,
+   "y": 926,
+   "w": 632,
+   "h": 99
+  },
+  {
+   "tag": "H2",
+   "text": "WHATS OUR DEAL? NO GIMMICKS, NO FLUFF—JUST SPEED, GREAT TASTE, AND THE THRILL OF",
+   "x": 44,
+   "y": 1726,
+   "w": 1352,
+   "h": 149
+  },
+  {
+   "tag": "H3",
+   "text": "MENU FEATURE​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌",
+   "x": 44,
+   "y": 2181,
+   "w": 696,
+   "h": 30
+  },
+  {
+   "tag": "H2",
+   "text": "THE OLIVE BURGER​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌",
+   "x": 44,
+   "y": 2235,
+   "w": 696,
+   "h": 50
+  },
+  {
+   "tag": "H2",
+   "text": "HUNGRY?​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍",
+   "x": 44,
+   "y": 2782,
+   "w": 1352,
+   "h": 50
+  },
+  {
+   "tag": "H2",
+   "text": "HIT THE FAST LANE.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍",
+   "x": 30,
+   "y": 2855,
+   "w": 1366,
+   "h": 731
+  },
+  {
+   "tag": "H3",
+   "text": "READY TO KEEP UP WITH THE LIGHTNING?​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​",
+   "x": 44,
+   "y": 4014,
+   "w": 576,
+   "h": 30
+  }
+ ],
+ "images": [
+  {
+   "alt": "Hot ‘n Now | Lightning Fast Food at a Gr",
+   "x": 0,
+   "y": 882,
+   "w": 720,
+   "h": 800
+  },
+  {
+   "alt": "Hot ‘n Now | Lightning Fast Food at a Gr",
+   "x": 720,
+   "y": 2073,
+   "w": 720,
+   "h": 664
+  }
+ ]
+}
