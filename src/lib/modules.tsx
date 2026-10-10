@@ -22,7 +22,7 @@ export function Prose({ section, inline }: { section: ProseSection; inline?: boo
           <div className="prose__stat" role="group" aria-label="A figure">
             <p className="prose__num">{stat.line}</p>
             <p>{stat.text}</p>
-            {stat.cite && <p className="prose__cite">{stat.source ? <a href={SOURCES[stat.source].url}>{stat.cite}</a> : stat.cite}</p>}
+            {stat.cite && <p className="prose__cite">{stat.source && !("ref" in SOURCES[stat.source]) ? <a href={SOURCES[stat.source].url}>{stat.cite}</a> : stat.cite}</p>}
           </div>
         )}
       </div>

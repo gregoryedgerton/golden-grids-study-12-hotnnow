@@ -2,7 +2,7 @@ import type { ReactNode } from "react";
 import { Tools } from "./tools";
 import { StudyBanner, StudyDisclosure } from "./study";
 import { Credits } from "./modules";
-import { NAV, SOURCE, PAGES } from "../content";
+import { NAV, PAGES } from "../content";
 
 /**
  * The shell. The reference's is a mark in the corner and four links; this
@@ -36,7 +36,6 @@ export function Page({ current, source, children }: { current: string; source: {
           </a>
           <ul className="foot__links">
             {NAV.map(([label, href]) => <li key={label}><a href={href}>{label}</a></li>)}
-            <li><a href={SOURCE.home.url}>The real Hot 'n Now</a></li>
           </ul>
         </div>
       </footer>

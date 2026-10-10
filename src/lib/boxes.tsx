@@ -26,7 +26,7 @@ export function Fact({
 }: {
   labelClass?: string;
   /** A real button-styled link in the foot: the square's call to action. */
-  btn?: { label: string; href: string; variant?: "gold" | "red" | "line" };
+  btn?: { label: string; href?: string; variant?: "gold" | "red" | "line" };
   /** A decorative drawing behind the text, clipped by the box. */
   imprint?: ReactNode;
   label?: string;
@@ -54,7 +54,7 @@ export function Fact({
         {(source || expand || link || btn) && (
           <div className="box__foot">
             {source && <span className="box__source">{source}</span>}
-            {btn && <a className={`btn btn--${btn.variant ?? "red"}`} href={btn.href}>{btn.label}</a>}
+            {btn && (btn.href ? <a className={`btn btn--${btn.variant ?? "red"}`} href={btn.href}>{btn.label}</a> : <span className={`btn btn--${btn.variant ?? "red"}`}>{btn.label}</span>)}
             {link && <a className="more more--link" href={link.href} aria-label={link.aria}>{link.label}</a>}
             {expand && <button className="more" aria-label={`More: ${expand.title}`} {...expand.group.triggerProps(expand.slotKey)}>More</button>}
           </div>

@@ -74,7 +74,7 @@ function FactCard({ fact, x, slotKey, hero }: { fact: Fact; x: ExpandGroup; slot
       expand={more ? {
         group: x, slotKey, title,
         full: <div className="cell__body">{fact.body && <p>{fact.body}</p>}{fact.list && <ul className="cell__list">{fact.list.map((l) => <li key={l}>{l}</li>)}</ul>}{fact.long && <p>{fact.long}</p>}</div>,
-        related: [...(fact.href ? [{ href: fact.href, label: fact.cta ?? "Read more" }] : []), ...(src ? [{ href: src.url, label: `Source: ${src.full}` }] : [])],
+        related: [...(fact.href ? [{ href: fact.href, label: fact.cta ?? "Read more" }] : []), ...(src && !("ref" in src) ? [{ href: src.url, label: `Source: ${src.full}` }] : [])],
       } : undefined}
     >
       {fact.line}

@@ -254,12 +254,12 @@ export const CAREERS = {
   hero: [
     { label: "Careers", line: "The jobs are here. Bring the drive.", fitClass: "fit--display", tone: "red", icon: "people",
       body: "The work moves fast and stays simple, and nobody messes about with the food or the people. Taking orders or leading a crew, there is room to grow.",
-      btn: { label: "Apply on hot-n-now.com", href: SOURCE.careers.url, variant: "gold" as const } },
-    { photo: "window", kicker: "Now hiring", caption: "Your new office has a window. One, but it's a good one.", href: SOURCE.careers.url, cta: "Apply on hot-n-now.com",
+      btn: { label: "Apply now", variant: "gold" as const } },
+    { photo: "window", kicker: "Now hiring", caption: "Your new office has a window. One, but it's a good one.",
       long: "Every role serves the town it is in: quick service, good energy, food that is right each time." },
     { label: "Values", line: "5", fitClass: NUM, tone: "navy", icon: "check", source: "site", body: "things the crew is asked to do, set out below.", href: "#values", cta: "The five" },
   ] as Sq[],
-  heroStrip: { label: "Hiring", strip: "Now", tone: "gold", href: SOURCE.careers.url, source: "site" } as Strip,
+  heroStrip: { label: "Hiring", strip: "Now", tone: "gold", source: "site" } as Strip,
 
   values: {
     kicker: "How the crew works", title: "Five things",
@@ -277,8 +277,8 @@ export const CAREERS = {
     squares: [
       { label: "If you are quick on your feet", line: "Apply", fitClass: "fit--display", tone: "navy", icon: "people",
         body: "Bring the pace and the appetite for more. Applications are taken on the restaurant's own site; this study takes none.",
-        btn: { label: "Apply on hot-n-now.com", href: SOURCE.careers.url, variant: "gold" as const } },
-      { photo: "fries", kicker: "Perks", caption: "You will smell like fries. People will follow you.", href: SOURCE.careers.url, cta: "Apply on hot-n-now.com" },
+        btn: { label: "Apply now", variant: "gold" as const } },
+      { photo: "fries", kicker: "Perks", caption: "You will smell like fries. People will follow you." },
       { label: "Open now", line: "1", fitClass: NUM, tone: "red", icon: "pin", source: "site", body: "restaurant, in Wayland, with Alpena to follow.", href: L, cta: "Locations" },
     ] as Sq[],
   },
