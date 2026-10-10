@@ -1,6 +1,6 @@
 /**
  * Five pages of hot-n-now.com (home, menu, about, careers, locations) rebuilt
- * as stacked golden grids under the GIFcommit brand, in the manner of the
+ * as stacked golden grids under the GIFn'now brand, in the manner of the
  * chain's LEGACY branding: the 1992 mark's navy, gold and red, the white
  * building with its slanted red roof, and the blue drive-thru board with
  * its coloured strips.
@@ -9,7 +9,7 @@
  * its questions and answers, as its site published them on October 8, 2026.
  * The FACTS are carried over; the WORDING is this study's own, and none of
  * the site's sentences, slogans, photographs or marks is reproduced. The
- * history before the relaunch is from Wikipedia. GIFcommit is not the
+ * history before the relaunch is from Wikipedia. GIFn'now is not the
  * restaurant: nothing here can be ordered.
  */
 import type { IconName } from "./icons";

@@ -5,7 +5,7 @@ Guidance for agents working in a Golden Grids layout study.
 ## What this repo is
 
 Study 12: five pages of hot-n-now.com (home, menu, about, careers, locations)
-rebuilt as stacked golden grids under the GIFcommit brand, with the CURRENT
+rebuilt as stacked golden grids under the GIFn'now brand, with the CURRENT
 brand's content in the LEGACY brand's style. FIVE pages (`index`, `menu`,
 `about`, `careers`, `locations`), Vite entries with plain links.
 `src/lib/Page.tsx` is the shell; `src/bands/bands.tsx` has `Squares` (facts,
@@ -163,7 +163,7 @@ README: the smallest line, and that no screen-reader user has tested it.
   face. Do NOT bring in the current site's purple as a brand colour.
 - `--red` (#e31921) is for large type only; small white text sits on
   `--red-ink` (#c40f17) so it passes contrast. Check any new tone with the scan.
-- GIFcommit is not the restaurant and the notice says so on every page. The
+- GIFn'now is not the restaurant and the notice says so on every page. The
   wordmark's bolt is the study's own drawing; never trace or embed the chain's
   logo. The two legacy photographs appear only as credited photographs.
 - The order builder (`order.tsx`) shows no prices and sends nothing; the bag is
@@ -210,6 +210,18 @@ Two geometry rules, verified against source, that every band relies on:
   reviewed by people. (Greg, 2026-10-09.)
 - **Favicon**: `public/favicon.svg`, a 32-unit tile with 6-unit corners and one
   letter in the study's colours.
+
+## Brand
+
+- **The study's brand is a parody name**: `GIF` in capitals, then the tail of
+  the reference's name in lower case (GIFbnb, GIFspn, GIFflix, GIFrs, GIFx,
+  GIFbase, GIFmutual, GIFn'now, GIFbell, GIFipedia). Do not use GIFcommit as
+  a service's name; it is only the npm scope of the library.
+- **A play on the reference's premium tier or named service carries the
+  parody name and keeps the alteration**: GIFspn+, GIFbase One, GIFx Premium.
+- Write the name exactly so; never change its case in CSS. The notice in
+  `src/study.json` says it is a parody name, and the disclosure lists it
+  under what is invented. (Greg, 2026-10-09.)
 
 ## API facts, verified against 5.0.0 source
 

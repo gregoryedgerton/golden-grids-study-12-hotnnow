@@ -20,7 +20,7 @@ export function Page({ current, source, children }: { current: string; source: {
         <div className="wrap top__bar">
           <a className="wordmark" href={PAGES.H}>
             <span className="wordmark__mark" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M14 1 4 13h6l-3 10 13-14h-7l3-8z" /></svg></span>
-            <span className="wordmark__name">GIFcommit</span>
+            <span className="wordmark__name">GIFn'now</span>
           </a>
           <nav className="nav" aria-label="Primary">
             <ul>{NAV.map(([label, href]) => <li key={label}><a href={href} aria-current={href.endsWith(current) ? "page" : undefined}>{label}</a></li>)}</ul>
@@ -32,7 +32,7 @@ export function Page({ current, source, children }: { current: string; source: {
         <div className="wrap foot__row">
           <a className="wordmark wordmark--foot" href={PAGES.H}>
             <span className="wordmark__mark" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M14 1 4 13h6l-3 10 13-14h-7l3-8z" /></svg></span>
-            <span className="wordmark__name">GIFcommit</span>
+            <span className="wordmark__name">GIFn'now</span>
           </a>
           <ul className="foot__links">
             {NAV.map(([label, href]) => <li key={label}><a href={href}>{label}</a></li>)}

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "description": "Golden Grids layout study 12: five pages of hot-n-now.com (home, menu, about, careers, locations) as stacked golden grids under the GIFcommit brand, with the current brand's content in the chain's legacy style.",
+  "description": "Golden Grids layout study 12: five pages of hot-n-now.com (home, menu, about, careers, locations) as stacked golden grids under the GIFn'now brand, with the current brand's content in the chain's legacy style.",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",

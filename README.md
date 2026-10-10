@@ -1,13 +1,13 @@
-# Layout study — Hot 'n Now, in its old colours, as GIFcommit
+# Layout study — Hot 'n Now, in its old colours, as GIFn'now
 
 **Live:** [`https://gregoryedgerton.github.io/golden-grids-study-12-hotnnow/`](https://gregoryedgerton.github.io/golden-grids-study-12-hotnnow/)
 
 An unaffiliated layout study. It rebuilds the five pages of
 [hot-n-now.com](https://www.hot-n-now.com/) (home, menu, about, careers,
-locations) as stacked golden grids under the GIFcommit brand, with the
+locations) as stacked golden grids under the GIFn'now brand, with the
 content of the brand as it is today and the style of the brand as it was: the
 navy, gold and red of the 1992 mark, the red-roofed building and the blue
-drive-thru board. GIFcommit is not the restaurant. Nothing here can be
+drive-thru board. GIFn'now is not the restaurant. Nothing here can be
 ordered, no form sends anything, and none of the site's sentences, photographs
 or marks is reproduced. Built with
 [Golden Grids](https://github.com/gregoryedgerton/golden-grids) from the
